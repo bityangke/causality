@@ -1,0 +1,1503 @@
+<copa-corpus version="1.0">
+
+  <item asks-for="cause" id="751" most-plausible-alternative="2">
+    <p>The man punctured his foot.</p>
+    <a1>He walked into a puddle.</a1>
+    <a2>He stepped on broken glass.</a2>
+  </item>
+
+  <item asks-for="effect" id="752" most-plausible-alternative="1">
+    <p>The detectives dusted the crime scene for fingerprints.</p>
+    <a1>They discovered the identity of the murderer.</a1>
+    <a2>They found the weapon at the crime scene.</a2>
+  </item>
+
+  <item asks-for="effect" id="753" most-plausible-alternative="1">
+    <p>There was a lot of traffic on the highway.</p>
+    <a1>I took a detour.</a1>
+    <a2>I asked for a ride.</a2>
+  </item>
+
+  <item asks-for="effect" id="754" most-plausible-alternative="2">
+    <p>The nation's economy declined.</p>
+    <a1>Many people got sick.</a1>
+    <a2>Many people faced unemployment.</a2>
+  </item>
+
+  <item asks-for="cause" id="755" most-plausible-alternative="1">
+    <p>The crossing guard blew her whistle at the children.</p>
+    <a1>They were about to walk into oncoming traffic.</a1>
+    <a2>She recognized them from her neighborhood.</a2>
+  </item>
+
+  <item asks-for="cause" id="756" most-plausible-alternative="2">
+    <p>I rolled my eyes at my friend.</p>
+    <a1>He told me the truth.</a1>
+    <a2>He made a sarcastic remark.</a2>
+  </item>
+
+  <item asks-for="effect" id="757" most-plausible-alternative="1">
+    <p>The car ran out of gas.</p>
+    <a1>The driver was stranded on the road.</a1>
+    <a2>The driver picked up a hitchhiker.</a2>
+  </item>
+
+  <item asks-for="effect" id="758" most-plausible-alternative="1">
+    <p>The woman went into labor.</p>
+    <a1>The baby was delivered.</a1>
+    <a2>The woman had morning sickness.</a2>
+  </item>
+
+  <item asks-for="cause" id="759" most-plausible-alternative="2">
+    <p>The man's hat blew away.</p>
+    <a1>He took off the hat.</a1>
+    <a2>It was windy outside.</a2>
+  </item>
+
+  <item asks-for="cause" id="760" most-plausible-alternative="1">
+    <p>The girl attended her classmate's birthday party.</p>
+    <a1>She received an invitation.</a1>
+    <a2>She bought a gift.</a2>
+  </item>
+
+  <item asks-for="effect" id="761" most-plausible-alternative="1">
+    <p>The boy's forehead felt hot.</p>
+    <a1>His mother took his temperature.</a1>
+    <a2>His mother took him to the park.</a2>
+  </item>
+
+  <item asks-for="cause" id="762" most-plausible-alternative="1">
+    <p>The man sprayed himself with cologne.</p>
+    <a1>He wanted to impress his date.</a1>
+    <a2>He put gel in his hair.</a2>
+  </item>
+
+  <item asks-for="effect" id="763" most-plausible-alternative="1">
+    <p>The electricity in the house shut off.</p>
+    <a1>I looked for a flashlight.</a1>
+    <a2>I picked up a shovel.</a2>
+  </item>
+
+  <item asks-for="cause" id="764" most-plausible-alternative="2">
+    <p>The family moved into a bigger house.</p>
+    <a1>The son graduated from high school.</a1>
+    <a2>The mother gave birth to twins.</a2>
+  </item>
+
+  <item asks-for="cause" id="765" most-plausible-alternative="1">
+    <p>The marathoner kept at a slow pace.</p>
+    <a1>She wanted to conserve her energy.</a1>
+    <a2>She saw the finish line.</a2>
+  </item>
+
+  <item asks-for="cause" id="766" most-plausible-alternative="2">
+    <p>The boy kicked the vending machine.</p>
+    <a1>The machine spit out the change.</a1>
+    <a2>The bag of chips was stuck.</a2>
+  </item>
+
+  <item asks-for="effect" id="767" most-plausible-alternative="2">
+    <p>My friend's dog died.</p>
+    <a1>I rolled my eyes at him.</a1>
+    <a2>I gave him a hug.</a2>
+  </item>
+
+  <item asks-for="effect" id="768" most-plausible-alternative="2">
+    <p>The businessman's credit card got declined.</p>
+    <a1>He wrote an IOU.</a1>
+    <a2>He paid with cash.</a2>
+  </item>
+
+  <item asks-for="cause" id="769" most-plausible-alternative="2">
+    <p>The man cursed.</p>
+    <a1>He clipped his nails.</a1>
+    <a2>He stubbed his toe.</a2>
+  </item>
+
+  <item asks-for="cause" id="770" most-plausible-alternative="2">
+    <p>The man felt proud of his brother.</p>
+    <a1>His brother got in an argument with their parents.</a1>
+    <a2>His brother got accepted into law school.</a2>
+  </item>
+
+  <item asks-for="effect" id="771" most-plausible-alternative="1">
+    <p>The girl wanted to learn about the solar system.</p>
+    <a1>She went to the library.</a1>
+    <a2>She looked at the stars.</a2>
+  </item>
+
+  <item asks-for="cause" id="772" most-plausible-alternative="2">
+    <p>The poster stuck to the wall.</p>
+    <a1>I positioned the poster above the door.</a1>
+    <a2>I put tape on the back of the poster.</a2>
+  </item>
+
+  <item asks-for="effect" id="773" most-plausible-alternative="1">
+    <p>The client approved the architect's plans for the building.</p>
+    <a1>The architect constructed the building.</a1>
+    <a2>The architect adjusted the plans.</a2>
+  </item>
+
+  <item asks-for="cause" id="774" most-plausible-alternative="1">
+    <p>The man dropped his spoon.</p>
+    <a1>His hand was shaking.</a1>
+    <a2>He licked the spoon.</a2>
+  </item>
+
+  <item asks-for="effect" id="775" most-plausible-alternative="2">
+    <p>The CEO of the company resigned.</p>
+    <a1>The board of directors dissolved the company.</a1>
+    <a2>The board of directors found his replacement.</a2>
+  </item>
+
+  <item asks-for="effect" id="776" most-plausible-alternative="1">
+    <p>I arrived late to the lecture.</p>
+    <a1>I took a seat in the back row.</a1>
+    <a2>I approached the podium.</a2>
+  </item>
+
+  <item asks-for="cause" id="777" most-plausible-alternative="1">
+    <p>The man was released from jail.</p>
+    <a1>His family paid his bail.</a1>
+    <a2>He attacked a fellow inmate.</a2>
+  </item>
+
+  <item asks-for="cause" id="778" most-plausible-alternative="2">
+    <p>The family lost all their belongings.</p>
+    <a1>They sold their house.</a1>
+    <a2>Their house caught fire.</a2>
+  </item>
+
+  <item asks-for="effect" id="779" most-plausible-alternative="2">
+    <p>I stomped on the aluminum can.</p>
+    <a1>The can was recycled.</a1>
+    <a2>The can got crushed.</a2>
+  </item>
+
+  <item asks-for="effect" id="780" most-plausible-alternative="2">
+    <p>The girl joined the debate team.</p>
+    <a1>She learned to use a computer.</a1>
+    <a2>She learned communication skills.</a2>
+  </item>
+
+  <item asks-for="cause" id="781" most-plausible-alternative="1">
+    <p>My mood improved.</p>
+    <a1>I listened to music.</a1>
+    <a2>I did the dishes.</a2>
+  </item>
+
+  <item asks-for="effect" id="782" most-plausible-alternative="2">
+    <p>The charity made a goal to raise money.</p>
+    <a1>They fed the homeless.</a1>
+    <a2>They held an auction.</a2>
+  </item>
+
+  <item asks-for="effect" id="783" most-plausible-alternative="2">
+    <p>The roller coaster plunged down the steep drop.</p>
+    <a1>The passengers giggled.</a1>
+    <a2>The passengers screamed.</a2>
+  </item>
+
+  <item asks-for="effect" id="784" most-plausible-alternative="2">
+    <p>I was furious.</p>
+    <a1>I checked the mailbox upon leaving the house.</a1>
+    <a2>I slammed the door upon leaving the house.</a2>
+  </item>
+
+  <item asks-for="effect" id="785" most-plausible-alternative="2">
+    <p>The man wanted to watch the sunrise.</p>
+    <a1>He travelled north.</a1>
+    <a2>He got up early.</a2>
+  </item>
+
+  <item asks-for="effect" id="786" most-plausible-alternative="2">
+    <p>I folded the paper.</p>
+    <a1>I recycled the paper.</a1>
+    <a2>The paper creased.</a2>
+  </item>
+
+  <item asks-for="effect" id="787" most-plausible-alternative="2">
+    <p>The nation endured a natural disaster.</p>
+    <a1>Leaders of other countries formed an alliance.</a1>
+    <a2>Leaders of other countries sent emergency relief.</a2>
+  </item>
+
+  <item asks-for="cause" id="788" most-plausible-alternative="2">
+    <p>The boy's clothes got soaked.</p>
+    <a1>He climbed out of the pool.</a1>
+    <a2>He fell into the pool.</a2>
+  </item>
+
+  <item asks-for="cause" id="789" most-plausible-alternative="1">
+    <p>The student rushed to finish the book.</p>
+    <a1>It was due to be returned to the library.</a1>
+    <a2>He borrowed it from a friend.</a2>
+  </item>
+
+  <item asks-for="cause" id="790" most-plausible-alternative="2">
+    <p>The criminal was executed.</p>
+    <a1>He was thrown in jail.</a1>
+    <a2>He was convicted of murder.</a2>
+  </item>
+
+  <item asks-for="cause" id="791" most-plausible-alternative="1">
+    <p>Sunlight entered the room.</p>
+    <a1>I opened the curtains.</a1>
+    <a2>I unlocked the door.</a2>
+  </item>
+
+  <item asks-for="effect" id="792" most-plausible-alternative="1">
+    <p>I yanked the imposter's hair.</p>
+    <a1>Her wig came off.</a1>
+    <a2>She went bald.</a2>
+  </item>
+
+  <item asks-for="cause" id="793" most-plausible-alternative="2">
+    <p>The editor reworded a sentence in the manuscript.</p>
+    <a1>He found the manuscript compelling.</a1>
+    <a2>He deemed the sentence unclear.</a2>
+  </item>
+
+  <item asks-for="cause" id="794" most-plausible-alternative="1">
+    <p>The woman cancelled her credit card account.</p>
+    <a1>She realized the card was missing.</a1>
+    <a2>She realized the card was expired.</a2>
+  </item>
+
+  <item asks-for="effect" id="795" most-plausible-alternative="2">
+    <p>The man and woman fell in love.</p>
+    <a1>They attended college.</a1>
+    <a2>They got married.</a2>
+  </item>
+
+  <item asks-for="effect" id="796" most-plausible-alternative="1">
+    <p>The music was too faint to hear.</p>
+    <a1>I turned up the volume.</a1>
+    <a2>I composed my own song.</a2>
+  </item>
+
+  <item asks-for="cause" id="797" most-plausible-alternative="1">
+    <p>The boy's hair was sticking up.</p>
+    <a1>The girl ruffled it.</a1>
+    <a2>The girl pulled it.</a2>
+  </item>
+
+  <item asks-for="cause" id="798" most-plausible-alternative="2">
+    <p>The bug got squashed.</p>
+    <a1>I sprayed myself with bug repellent.</a1>
+    <a2>I stepped on the bug.</a2>
+  </item>
+
+  <item asks-for="cause" id="799" most-plausible-alternative="1">
+    <p>I opened my eyes.</p>
+    <a1>I woke up.</a1>
+    <a2>I relaxed.</a2>
+  </item>
+
+  <item asks-for="effect" id="800" most-plausible-alternative="1">
+    <p>My neighbor's music was blaring.</p>
+    <a1>I asked him to turn it down.</a1>
+    <a2>I asked to borrow the CD from him.</a2>
+  </item>
+
+  <item asks-for="cause" id="801" most-plausible-alternative="2">
+    <p>The man's family lived in poverty.</p>
+    <a1>He was frugal with his earnings.</a1>
+    <a2>He earned below minimum wage.</a2>
+  </item>
+
+  <item asks-for="effect" id="802" most-plausible-alternative="1">
+    <p>The student graduated from the university.</p>
+    <a1>He looked for a job.</a1>
+    <a2>He took up a hobby.</a2>
+  </item>
+
+  <item asks-for="effect" id="803" most-plausible-alternative="2">
+    <p>The artist mixed yellow paint into blue paint.</p>
+    <a1>The paint splattered everywhere.</a1>
+    <a2>The paint turned green.</a2>
+  </item>
+
+  <item asks-for="cause" id="804" most-plausible-alternative="2">
+    <p>I changed the topic of conversation.</p>
+    <a1>I ran out of things to talk about.</a1>
+    <a2>The conversation became tense.</a2>
+  </item>
+
+  <item asks-for="effect" id="805" most-plausible-alternative="1">
+    <p>My brother was released from the hospital.</p>
+    <a1>I welcomed him back home.</a1>
+    <a2>I gave him the cold shoulder.</a2>
+  </item>
+
+  <item asks-for="effect" id="806" most-plausible-alternative="1">
+    <p>The curtain on the stage went up.</p>
+    <a1>The opening scene of the play began.</a1>
+    <a2>The actors in the play exited the stage.</a2>
+  </item>
+
+  <item asks-for="cause" id="807" most-plausible-alternative="1">
+    <p>The hostage submitted to the kidnapper's mandates.</p>
+    <a1>The kidnapper threatened to hurt the hostage.</a1>
+    <a2>The kidnapper left the hostage by himself.</a2>
+  </item>
+
+  <item asks-for="cause" id="808" most-plausible-alternative="2">
+    <p>A boom reverberated across the stage.</p>
+    <a1>The musician tapped his foot.</a1>
+    <a2>The musician pounded the drum.</a2>
+  </item>
+
+  <item asks-for="cause" id="809" most-plausible-alternative="1">
+    <p>The parents rushed to their child's bedroom.</p>
+    <a1>The child awoke screaming from a nightmare.</a1>
+    <a2>The child was scared to look under her bed.</a2>
+  </item>
+
+  <item asks-for="cause" id="810" most-plausible-alternative="2">
+    <p>The woman communicated with sign language.</p>
+    <a1>She was born premature.</a1>
+    <a2>She was born deaf.</a2>
+  </item>
+
+  <item asks-for="effect" id="811" most-plausible-alternative="2">
+    <p>A drought occurred in the region.</p>
+    <a1>The water became contaminated.</a1>
+    <a2>The crops perished.</a2>
+  </item>
+
+  <item asks-for="effect" id="812" most-plausible-alternative="1">
+    <p>The cat chased the bird.</p>
+    <a1>The bird flew away.</a1>
+    <a2>The bird caught a worm.</a2>
+  </item>
+
+  <item asks-for="cause" id="813" most-plausible-alternative="2">
+    <p>The girl switched schools.</p>
+    <a1>School let out for the summer.</a1>
+    <a2>She moved to a new town.</a2>
+  </item>
+
+  <item asks-for="effect" id="814" most-plausible-alternative="2">
+    <p>The factory owner refused to raise employees' wages.</p>
+    <a1>The owner appointed a new manager.</a1>
+    <a2>The employees went on strike.</a2>
+  </item>
+
+  <item asks-for="effect" id="815" most-plausible-alternative="2">
+    <p>The leader antagonized the extremists among his country.</p>
+    <a1>The extremists influenced him.</a1>
+    <a2>The extremists assassinated him.</a2>
+  </item>
+
+  <item asks-for="effect" id="816" most-plausible-alternative="1">
+    <p>I walked barefoot on the beach.</p>
+    <a1>Sand stuck to my feet.</a1>
+    <a2>Waves crashed along the shore.</a2>
+  </item>
+
+  <item asks-for="effect" id="817" most-plausible-alternative="1">
+    <p>I woke up in the middle of the night feeling cold.</p>
+    <a1>I put sweatpants on.</a1>
+    <a2>I drank a glass of water.</a2>
+  </item>
+
+  <item asks-for="cause" id="818" most-plausible-alternative="2">
+    <p>The mother hushed her son.</p>
+    <a1>Her son smirked.</a1>
+    <a2>Her son whined.</a2>
+  </item>
+
+  <item asks-for="cause" id="819" most-plausible-alternative="2">
+    <p>A hole ripped in my jeans.</p>
+    <a1>I zipped up the jeans.</a1>
+    <a2>I tripped on the pavement.</a2>
+  </item>
+
+  <item asks-for="effect" id="820" most-plausible-alternative="2">
+    <p>The boy wore braces.</p>
+    <a1>He got a cavity.</a1>
+    <a2>His teeth became straight.</a2>
+  </item>
+
+  <item asks-for="effect" id="821" most-plausible-alternative="1">
+    <p>I worked out at the gym yesterday.</p>
+    <a1>I woke up today with sore muscles.</a1>
+    <a2>I woke up today with a sore throat.</a2>
+  </item>
+
+  <item asks-for="effect" id="822" most-plausible-alternative="2">
+    <p>The girl whispered back and forth to each other at the lunch table.</p>
+    <a1>Other students sat down at the lunch table.</a1>
+    <a2>Other students at the lunch table felt left out.</a2>
+  </item>
+
+  <item asks-for="effect" id="823" most-plausible-alternative="1">
+    <p>The child landed on the trampoline.</p>
+    <a1>She sprung back up into the air.</a1>
+    <a2>She decided to try to do a flip.</a2>
+  </item>
+
+  <item asks-for="effect" id="824" most-plausible-alternative="1">
+    <p>I deposited the letter in the mailbox.</p>
+    <a1>The post office delivered the letter.</a1>
+    <a2>The post office expedited the letter.</a2>
+  </item>
+
+  <item asks-for="effect" id="825" most-plausible-alternative="1">
+    <p>The gambler was confident.</p>
+    <a1>He bet all of his money.</a1>
+    <a2>He went home broke.</a2>
+  </item>
+
+  <item asks-for="cause" id="826" most-plausible-alternative="1">
+    <p>The forest fire spread.</p>
+    <a1>The winds became stronger.</a1>
+    <a2>The arsonists were apprehended.</a2>
+  </item>
+
+  <item asks-for="effect" id="827" most-plausible-alternative="2">
+    <p>The child skinned his knee.</p>
+    <a1>His mother sent him to his room.</a1>
+    <a2>His mother put a bandage on the wound.</a2>
+  </item>
+
+  <item asks-for="cause" id="828" most-plausible-alternative="2">
+    <p>The man survived the deadly illness.</p>
+    <a1>He signed his will.</a1>
+    <a2>He received an organ transplant.</a2>
+  </item>
+
+  <item asks-for="effect" id="829" most-plausible-alternative="2">
+    <p>I took a sip of the scalding coffee.</p>
+    <a1>I bit my tongue.</a1>
+    <a2>I burnt my tongue.</a2>
+  </item>
+
+  <item asks-for="cause" id="830" most-plausible-alternative="2">
+    <p>The editor fired the writer.</p>
+    <a1>The writer avoided bias in her stories.</a1>
+    <a2>The writer missed an important deadline.</a2>
+  </item>
+
+  <item asks-for="cause" id="831" most-plausible-alternative="2">
+    <p>I felt exhausted.</p>
+    <a1>I slept all day.</a1>
+    <a2>I studied all day.</a2>
+  </item>
+
+  <item asks-for="cause" id="832" most-plausible-alternative="1">
+    <p>The physician diagnosed the patient.</p>
+    <a1>She identified the patient's symptoms.</a1>
+    <a2>She prescribed pills to the patient.</a2>
+  </item>
+
+  <item asks-for="cause" id="833" most-plausible-alternative="2">
+    <p>I scratched my skin.</p>
+    <a1>It was sweaty.</a1>
+    <a2>It felt itchy.</a2>
+  </item>
+
+  <item asks-for="cause" id="834" most-plausible-alternative="2">
+    <p>The man underwent emergency surgery.</p>
+    <a1>He lost his temper.</a1>
+    <a2>He suffered a heart attack.</a2>
+  </item>
+
+  <item asks-for="cause" id="835" most-plausible-alternative="1">
+    <p>The man's arm muscles bulged.</p>
+    <a1>He flexed his arms.</a1>
+    <a2>He rubbed his arms.</a2>
+  </item>
+
+  <item asks-for="cause" id="836" most-plausible-alternative="1">
+    <p>The man raised his eyebrows.</p>
+    <a1>He was surprised.</a1>
+    <a2>He felt discouraged.</a2>
+  </item>
+
+  <item asks-for="cause" id="837" most-plausible-alternative="1">
+    <p>I excused my colleague's blunder.</p>
+    <a1>I believed his intentions were good.</a1>
+    <a2>I believed that he knew better.</a2>
+  </item>
+
+  <item asks-for="effect" id="838" most-plausible-alternative="1">
+    <p>The man quit smoking.</p>
+    <a1>He began exercising more.</a1>
+    <a2>He started waking up earlier.</a2>
+  </item>
+
+  <item asks-for="effect" id="839" most-plausible-alternative="2">
+    <p>The woman punched her attacker in the nose.</p>
+    <a1>The attacker's body went lifeless.</a1>
+    <a2>The attacker started to bleed.</a2>
+  </item>
+
+  <item asks-for="cause" id="840" most-plausible-alternative="1">
+    <p>The dart missed the bull's eye.</p>
+    <a1>The man's aim was off.</a1>
+    <a2>The man was losing the game.</a2>
+  </item>
+
+  <item asks-for="cause" id="841" most-plausible-alternative="1">
+    <p>The homeowner requested that an exterminator come to his house.</p>
+    <a1>He discovered rats in the basement.</a1>
+    <a2>He kept an ant farm in his room.</a2>
+  </item>
+
+  <item asks-for="cause" id="842" most-plausible-alternative="1">
+    <p>I suggested to my houseguest that we go out to dinner.</p>
+    <a1>I was too tired to prepare anything.</a1>
+    <a2>My houseguest overstayed her welcome.</a2>
+  </item>
+
+  <item asks-for="effect" id="843" most-plausible-alternative="1">
+    <p>The girl caught her brother reading her diary.</p>
+    <a1>She started hiding the diary.</a1>
+    <a2>She got a new diary.</a2>
+  </item>
+
+  <item asks-for="effect" id="844" most-plausible-alternative="1">
+    <p>The woman was short on money for rent.</p>
+    <a1>She worked overtime.</a1>
+    <a2>She quit her job.</a2>
+  </item>
+
+  <item asks-for="cause" id="845" most-plausible-alternative="1">
+    <p>The child's hand quickly recoiled.</p>
+    <a1>He touched the hot stove.</a1>
+    <a2>He patted the puppy's head.</a2>
+  </item>
+
+  <item asks-for="effect" id="846" most-plausible-alternative="2">
+    <p>The company wanted to gauge customer satisfaction.</p>
+    <a1>They offered a discount to new customers.</a1>
+    <a2>They distributed a survey to customers.</a2>
+  </item>
+
+  <item asks-for="cause" id="847" most-plausible-alternative="2">
+    <p>The wood floor became scratched.</p>
+    <a1>The boy threw the cushions off the couch.</a1>
+    <a2>The boy dragged a chair across the floor.</a2>
+  </item>
+
+  <item asks-for="cause" id="848" most-plausible-alternative="2">
+    <p>I shielded my face.</p>
+    <a1>My enemy taunted me.</a1>
+    <a2>My enemy cocked a fist.</a2>
+  </item>
+
+  <item asks-for="cause" id="849" most-plausible-alternative="1">
+    <p>The famous statue burned down.</p>
+    <a1>It was struck by lightning.</a1>
+    <a2>People came to venerate it.</a2>
+  </item>
+
+  <item asks-for="effect" id="850" most-plausible-alternative="2">
+    <p>I left the fruit out on the table.</p>
+    <a1>The fruit shed seeds.</a1>
+    <a2>Flies swarmed the fruit.</a2>
+  </item>
+
+  <item asks-for="cause" id="851" most-plausible-alternative="2">
+    <p>The ballerina tore a ligament.</p>
+    <a1>She pointed her toes.</a1>
+    <a2>She twisted her ankle.</a2>
+  </item>
+
+  <item asks-for="cause" id="852" most-plausible-alternative="2">
+    <p>The child's shoelaces came untied.</p>
+    <a1>He learned how to tie them.</a1>
+    <a2>He ran around on the playground.</a2>
+  </item>
+
+  <item asks-for="effect" id="853" most-plausible-alternative="2">
+    <p>I became enthralled in the book.</p>
+    <a1>I returned the book.</a1>
+    <a2>I lost track of time.</a2>
+  </item>
+
+  <item asks-for="cause" id="854" most-plausible-alternative="1">
+    <p>The man held similar beliefs to those of his parents.</p>
+    <a1>His parents influenced him.</a1>
+    <a2>His parents disowned him.</a2>
+  </item>
+
+  <item asks-for="cause" id="855" most-plausible-alternative="1">
+    <p>The car gradually slowed to a stop.</p>
+    <a1>It ran out of gas.</a1>
+    <a2>The driver fell asleep.</a2>
+  </item>
+
+  <item asks-for="effect" id="856" most-plausible-alternative="2">
+    <p>The man ate the ice cream in the sun.</p>
+    <a1>The ice cream lost its flavor.</a1>
+    <a2>The ice cream dripped from the cone.</a2>
+  </item>
+
+  <item asks-for="cause" id="857" most-plausible-alternative="2">
+    <p>I hung artwork in the room.</p>
+    <a1>The carpet looked dirty.</a1>
+    <a2>The walls looked bare.</a2>
+  </item>
+
+  <item asks-for="cause" id="858" most-plausible-alternative="1">
+    <p>I left work early.</p>
+    <a1>I had a headache.</a1>
+    <a2>My boss held a meeting.</a2>
+  </item>
+
+  <item asks-for="effect" id="859" most-plausible-alternative="1">
+    <p>The puppy soiled the carpet.</p>
+    <a1>The owner scolded the puppy.</a1>
+    <a2>The owner gave the puppy a treat.</a2>
+  </item>
+
+  <item asks-for="effect" id="860" most-plausible-alternative="1">
+    <p>I apologized to my friend.</p>
+    <a1>My friend forgave me.</a1>
+    <a2>My friend became infuriated.</a2>
+  </item>
+
+  <item asks-for="cause" id="861" most-plausible-alternative="2">
+    <p>The man stood out in the crowd.</p>
+    <a1>He carried a backpack.</a1>
+    <a2>He wore a neon vest.</a2>
+  </item>
+
+  <item asks-for="effect" id="862" most-plausible-alternative="2">
+    <p>The witness lied under oath.</p>
+    <a1>He completed his testimony.</a1>
+    <a2>He was charged with perjury.</a2>
+  </item>
+
+  <item asks-for="cause" id="863" most-plausible-alternative="1">
+    <p>The woman dyed her hair.</p>
+    <a1>She wanted a new look.</a1>
+    <a2>She wanted to blend in.</a2>
+  </item>
+
+  <item asks-for="effect" id="864" most-plausible-alternative="2">
+    <p>The immigrants were caught illegally residing in the country.</p>
+    <a1>They found employment.</a1>
+    <a2>They were deported.</a2>
+  </item>
+
+  <item asks-for="effect" id="865" most-plausible-alternative="1">
+    <p>The public speaker cracked a joke.</p>
+    <a1>The audience laughed.</a1>
+    <a2>The audience stood up.</a2>
+  </item>
+
+  <item asks-for="effect" id="866" most-plausible-alternative="1">
+    <p>I looked into the sun.</p>
+    <a1>The sun blinded me.</a1>
+    <a2>The sun tanned my skin.</a2>
+  </item>
+
+  <item asks-for="effect" id="867" most-plausible-alternative="2">
+    <p>I felt bored.</p>
+    <a1>I snorted.</a1>
+    <a2>I yawned.</a2>
+  </item>
+
+  <item asks-for="cause" id="868" most-plausible-alternative="1">
+    <p>The steak was difficult to cut.</p>
+    <a1>The knife was dull.</a1>
+    <a2>The steak was raw.</a2>
+  </item>
+
+  <item asks-for="cause" id="869" most-plausible-alternative="2">
+    <p>The woman declared bankruptcy.</p>
+    <a1>She received alimony payment.</a1>
+    <a2>She acquired massive debt.</a2>
+  </item>
+
+  <item asks-for="effect" id="870" most-plausible-alternative="2">
+    <p>The lights in my friend's apartment were on.</p>
+    <a1>I wondered if he was out.</a1>
+    <a2>I decided to pay him a visit.</a2>
+  </item>
+
+  <item asks-for="effect" id="871" most-plausible-alternative="2">
+    <p>I put the flower under my nose.</p>
+    <a1>The petals came off the flower.</a1>
+    <a2>I picked up the flower's scent.</a2>
+  </item>
+
+  <item asks-for="cause" id="872" most-plausible-alternative="1">
+    <p>The woman felt nostalgic.</p>
+    <a1>She ran into a childhood friend.</a1>
+    <a2>She yelled at her children.</a2>
+  </item>
+
+  <item asks-for="effect" id="873" most-plausible-alternative="2">
+    <p>The student procrastinated on the paper.</p>
+    <a1>He submitted the paper early.</a1>
+    <a2>He submitted the paper incomplete.</a2>
+  </item>
+
+  <item asks-for="effect" id="874" most-plausible-alternative="2">
+    <p>My car broke down.</p>
+    <a1>I went to the mall.</a1>
+    <a2>I called a mechanic.</a2>
+  </item>
+
+  <item asks-for="cause" id="875" most-plausible-alternative="2">
+    <p>I discarded the note.</p>
+    <a1>It was anonymous.</a1>
+    <a2>It was illegible.</a2>
+  </item>
+
+  <item asks-for="effect" id="876" most-plausible-alternative="2">
+    <p>The bird flapped its wings.</p>
+    <a1>It laid eggs.</a1>
+    <a2>It ascended upwards.</a2>
+  </item>
+
+  <item asks-for="cause" id="877" most-plausible-alternative="2">
+    <p>I parked in the driveway.</p>
+    <a1>The garage was open.</a1>
+    <a2>The garage was full.</a2>
+  </item>
+
+  <item asks-for="effect" id="878" most-plausible-alternative="2">
+    <p>The criminal aimed the gun at his victim.</p>
+    <a1>The criminal put down the gun.</a1>
+    <a2>The victim put his hands up.</a2>
+  </item>
+
+  <item asks-for="cause" id="879" most-plausible-alternative="2">
+    <p>I looked forward to the weekend.</p>
+    <a1>I planned to attend my uncle's funeral.</a1>
+    <a2>I planned to attend my friend's wedding.</a2>
+  </item>
+
+  <item asks-for="cause" id="880" most-plausible-alternative="1">
+    <p>I lost track of time.</p>
+    <a1>I was daydreaming.</a1>
+    <a2>I was nauseous.</a2>
+  </item>
+
+  <item asks-for="cause" id="881" most-plausible-alternative="1">
+    <p>The document printed out illegibly.</p>
+    <a1>The printer was low on ink.</a1>
+    <a2>The print was out of paper.</a2>
+  </item>
+
+  <item asks-for="effect" id="882" most-plausible-alternative="1">
+    <p>The stadium played the national anthem.</p>
+    <a1>The fans turned to the flag.</a1>
+    <a2>The fans rushed the field.</a2>
+  </item>
+
+  <item asks-for="effect" id="883" most-plausible-alternative="2">
+    <p>The dip tasted bland.</p>
+    <a1>I served it.</a1>
+    <a2>I put salt in it.</a2>
+  </item>
+
+  <item asks-for="effect" id="884" most-plausible-alternative="1">
+    <p>I set the paper towel on the spill.</p>
+    <a1>The towel absorbed the liquid.</a1>
+    <a2>The spill left a sticky residue.</a2>
+  </item>
+
+  <item asks-for="effect" id="885" most-plausible-alternative="1">
+    <p>The woman was interrupted in the midst of reading her book.</p>
+    <a1>She bookmarked her page.</a1>
+    <a2>She reread the book.</a2>
+  </item>
+
+  <item asks-for="effect" id="886" most-plausible-alternative="1">
+    <p>The plane hit some turbulence.</p>
+    <a1>The man tightened his seatbelt.</a1>
+    <a2>The man looked out the window.</a2>
+  </item>
+
+  <item asks-for="cause" id="887" most-plausible-alternative="2">
+    <p>The boy flinched.</p>
+    <a1>The girl ignored him.</a1>
+    <a2>The girl poked him.</a2>
+  </item>
+
+  <item asks-for="cause" id="888" most-plausible-alternative="1">
+    <p>The doctors gave the patient an artificial limb.</p>
+    <a1>They amputated her leg.</a1>
+    <a2>They monitored her vitals.</a2>
+  </item>
+
+  <item asks-for="effect" id="889" most-plausible-alternative="2">
+    <p>The boy pinched the girl's elbow.</p>
+    <a1>She shrugged her shoulders at him.</a1>
+    <a2>She jerked her arm away from him.</a2>
+  </item>
+
+  <item asks-for="cause" id="890" most-plausible-alternative="1">
+    <p>I asked my friend for advice.</p>
+    <a1>I valued his opinion.</a1>
+    <a2>I knew I was right.</a2>
+  </item>
+
+  <item asks-for="effect" id="891" most-plausible-alternative="1">
+    <p>The boy stepped in mud.</p>
+    <a1>The mud stuck to his shoes.</a1>
+    <a2>The mud hit him in the face.</a2>
+  </item>
+
+  <item asks-for="effect" id="892" most-plausible-alternative="1">
+    <p>The town received several inches of snow.</p>
+    <a1>Schools shut down.</a1>
+    <a2>People hid underground.</a2>
+  </item>
+
+  <item asks-for="effect" id="893" most-plausible-alternative="1">
+    <p>The employee's shift ended.</p>
+    <a1>He went home for the day.</a1>
+    <a2>He threatened to quit the job.</a2>
+  </item>
+
+  <item asks-for="cause" id="894" most-plausible-alternative="1">
+    <p>The tree damaged the house.</p>
+    <a1>The tree fell onto the roof.</a1>
+    <a2>The tree shaded the backyard.</a2>
+  </item>
+
+  <item asks-for="cause" id="895" most-plausible-alternative="2">
+    <p>The wood split in half.</p>
+    <a1>I stacked the wood in the fireplace.</a1>
+    <a2>I swung the axe down to the wood.</a2>
+  </item>
+
+  <item asks-for="cause" id="896" most-plausible-alternative="2">
+    <p>The family congratulated the couple.</p>
+    <a1>The couple announced that they were separating.</a1>
+    <a2>The couple announced that they were having a baby.</a2>
+  </item>
+
+  <item asks-for="cause" id="897" most-plausible-alternative="1">
+    <p>The girl sent the boy a valentine.</p>
+    <a1>She liked him.</a1>
+    <a2>She kissed him.</a2>
+  </item>
+
+  <item asks-for="cause" id="898" most-plausible-alternative="2">
+    <p>I nodded my head at my friend's statement.</p>
+    <a1>I was confused.</a1>
+    <a2>I agreed with him.</a2>
+  </item>
+
+  <item asks-for="cause" id="899" most-plausible-alternative="2">
+    <p>The friends flipped a coin.</p>
+    <a1>They wanted to find a compromise.</a1>
+    <a2>They wanted to make a fair decision.</a2>
+  </item>
+
+  <item asks-for="effect" id="900" most-plausible-alternative="2">
+    <p>The timer in the kitchen went off.</p>
+    <a1>The man unloaded the groceries into the refrigerator.</a1>
+    <a2>The man took the pizza out of the oven.</a2>
+  </item>
+
+  <item asks-for="effect" id="901" most-plausible-alternative="2">
+    <p>The woman set an ambitious goal.</p>
+    <a1>She slacked off.</a1>
+    <a2>She worked hard.</a2>
+  </item>
+
+  <item asks-for="effect" id="902" most-plausible-alternative="2">
+    <p>The wealthy man died of old age.</p>
+    <a1>His son got into legal trouble.</a1>
+    <a2>His son inherited his fortune.</a2>
+  </item>
+
+  <item asks-for="effect" id="903" most-plausible-alternative="1">
+    <p>The woman stomped on the flames.</p>
+    <a1>The flames went out.</a1>
+    <a2>Smoke arose from the flames.</a2>
+  </item>
+
+  <item asks-for="cause" id="904" most-plausible-alternative="2">
+    <p>The woman's car was in the shop.</p>
+    <a1>Her driver's license was revoked.</a1>
+    <a2>She got in a car accident.</a2>
+  </item>
+
+  <item asks-for="effect" id="905" most-plausible-alternative="2">
+    <p>I slept through my alarm.</p>
+    <a1>I made breakfast.</a1>
+    <a2>I missed breakfast.</a2>
+  </item>
+
+  <item asks-for="effect" id="906" most-plausible-alternative="1">
+    <p>The public figure got out of the limousine.</p>
+    <a1>Cameras flashed in his direction.</a1>
+    <a2>His family attended the press conference.</a2>
+  </item>
+
+  <item asks-for="effect" id="907" most-plausible-alternative="1">
+    <p>The woman lingered in the bathtub.</p>
+    <a1>The bathwater became lukewarm.</a1>
+    <a2>The bathwater drained out of the tub.</a2>
+  </item>
+
+  <item asks-for="effect" id="908" most-plausible-alternative="1">
+    <p>The college student wanted to meet other students on campus.</p>
+    <a1>He joined a fraternity.</a1>
+    <a2>He majored in engineering.</a2>
+  </item>
+
+  <item asks-for="cause" id="909" most-plausible-alternative="1">
+    <p>I lifted up the couch cushions.</p>
+    <a1>I was looking for loose change.</a1>
+    <a2>I was rearranging the living room.</a2>
+  </item>
+
+  <item asks-for="effect" id="910" most-plausible-alternative="1">
+    <p>The wasp flew towards the boy.</p>
+    <a1>The boy ran away.</a1>
+    <a2>The boy picked a flower.</a2>
+  </item>
+
+  <item asks-for="effect" id="911" most-plausible-alternative="1">
+    <p>The woman was found guilty of a misdemeanor.</p>
+    <a1>She was sentenced to perform community service.</a1>
+    <a2>She was put on death row.</a2>
+  </item>
+
+  <item asks-for="effect" id="912" most-plausible-alternative="2">
+    <p>I stirred the sugar into the hot tea.</p>
+    <a1>The tea steamed.</a1>
+    <a2>The sugar dissolved.</a2>
+  </item>
+
+  <item asks-for="cause" id="913" most-plausible-alternative="2">
+    <p>The veteran walked with a limp.</p>
+    <a1>He was drafted for the war.</a1>
+    <a2>He was injured in battle.</a2>
+  </item>
+
+  <item asks-for="effect" id="914" most-plausible-alternative="2">
+    <p>The criminal ran away from the police.</p>
+    <a1>The police attended to the victim.</a1>
+    <a2>The police chased the criminal.</a2>
+  </item>
+
+  <item asks-for="cause" id="915" most-plausible-alternative="1">
+    <p>The laptop wouldn't turn on.</p>
+    <a1>I dropped it.</a1>
+    <a2>I charged it.</a2>
+  </item>
+
+  <item asks-for="cause" id="916" most-plausible-alternative="1">
+    <p>The woman ran out of room in her closet.</p>
+    <a1>She acquired an extensive wardrobe.</a1>
+    <a2>She folded her laundry.</a2>
+  </item>
+
+  <item asks-for="cause" id="917" most-plausible-alternative="2">
+    <p>The man was heartbroken.</p>
+    <a1>His wife gave birth.</a1>
+    <a2>His wife left him.</a2>
+  </item>
+
+  <item asks-for="effect" id="918" most-plausible-alternative="1">
+    <p>The man obtained a degree.</p>
+    <a1>He became qualified for the job he wanted.</a1>
+    <a2>His job offer was rescinded.</a2>
+  </item>
+
+  <item asks-for="cause" id="919" most-plausible-alternative="2">
+    <p>The man's voice projected clearly throughout the auditorium.</p>
+    <a1>He greeted the audience.</a1>
+    <a2>He spoke into the microphone.</a2>
+  </item>
+
+  <item asks-for="effect" id="920" most-plausible-alternative="1">
+    <p>I tossed a coin into the fountain of water.</p>
+    <a1>The coin sunk to the bottom.</a1>
+    <a2>The coin broke in half.</a2>
+  </item>
+
+  <item asks-for="effect" id="921" most-plausible-alternative="1">
+    <p>The player hit the ball toward the hole.</p>
+    <a1>The ball went in the hole.</a1>
+    <a2>The ball retreated back to the player.</a2>
+  </item>
+
+  <item asks-for="effect" id="922" most-plausible-alternative="2">
+    <p>I breathed in the dust in the attic.</p>
+    <a1>I hiccupped.</a1>
+    <a2>I sneezed.</a2>
+  </item>
+
+  <item asks-for="cause" id="923" most-plausible-alternative="1">
+    <p>The store cashier called security.</p>
+    <a1>The customer used counterfeit money.</a1>
+    <a2>The customer left his headlights on.</a2>
+  </item>
+
+  <item asks-for="cause" id="924" most-plausible-alternative="1">
+    <p>I took the garbage out.</p>
+    <a1>The garbage made the kitchen smell bad.</a1>
+    <a2>I accidentally threw away my shopping list.</a2>
+  </item>
+
+  <item asks-for="effect" id="925" most-plausible-alternative="1">
+    <p>The family went to the zoo.</p>
+    <a1>The children admired the animals.</a1>
+    <a2>The children chased the animals.</a2>
+  </item>
+
+  <item asks-for="cause" id="926" most-plausible-alternative="2">
+    <p>The man's breathing was loud.</p>
+    <a1>His kidneys were failing.</a1>
+    <a2>His lungs were congested.</a2>
+  </item>
+
+  <item asks-for="effect" id="927" most-plausible-alternative="2">
+    <p>I had an extra ticket for the concert.</p>
+    <a1>I asked my friend for directions to the venue.</a1>
+    <a2>I asked my friend if he was interested in going.</a2>
+  </item>
+
+  <item asks-for="effect" id="928" most-plausible-alternative="2">
+    <p>The air conditioner in the house broke.</p>
+    <a1>I brought out blankets.</a1>
+    <a2>I opened the windows.</a2>
+  </item>
+
+  <item asks-for="cause" id="929" most-plausible-alternative="2">
+    <p>The boy's back ached.</p>
+    <a1>His backpack was open.</a1>
+    <a2>His backpack was heavy.</a2>
+  </item>
+
+  <item asks-for="cause" id="930" most-plausible-alternative="2">
+    <p>I bought my mother a present.</p>
+    <a1>I baked her a cake.</a1>
+    <a2>It was her birthday.</a2>
+  </item>
+
+  <item asks-for="cause" id="931" most-plausible-alternative="2">
+    <p>The daffodils in the garden were destroyed.</p>
+    <a1>A bee stung the gardener.</a1>
+    <a2>Squirrels dug up the bulbs.</a2>
+  </item>
+
+  <item asks-for="effect" id="932" most-plausible-alternative="2">
+    <p>I struck the match.</p>
+    <a1>The flame faded out.</a1>
+    <a2>The match produced a flame.</a2>
+  </item>
+
+  <item asks-for="cause" id="933" most-plausible-alternative="1">
+    <p>The disputing parties reached a settlement.</p>
+    <a1>They didn't want to debate in court.</a1>
+    <a2>They wanted to repair their personal relationship.</a2>
+  </item>
+
+  <item asks-for="cause" id="934" most-plausible-alternative="1">
+    <p>The children were sent to an orphanage.</p>
+    <a1>Their parents died.</a1>
+    <a2>Their parents spoiled them.</a2>
+  </item>
+
+  <item asks-for="effect" id="935" most-plausible-alternative="1">
+    <p>A meteorite landed in the ocean.</p>
+    <a1>A tsunami occurred.</a1>
+    <a2>It began to hail.</a2>
+  </item>
+
+  <item asks-for="effect" id="936" most-plausible-alternative="2">
+    <p>The hiker encountered a poisonous snake.</p>
+    <a1>She became dehydrated.</a1>
+    <a2>She panicked.</a2>
+  </item>
+
+  <item asks-for="cause" id="937" most-plausible-alternative="1">
+    <p>The oven became hot.</p>
+    <a1>I turned the oven on.</a1>
+    <a2>I put the dish in the oven.</a2>
+  </item>
+
+  <item asks-for="effect" id="938" most-plausible-alternative="2">
+    <p>I squeezed the lemon wedge.</p>
+    <a1>The lemon got moldy.</a1>
+    <a2>The lemon squirted.</a2>
+  </item>
+
+  <item asks-for="effect" id="939" most-plausible-alternative="2">
+    <p>The country discovered new land.</p>
+    <a1>The country abandoned the land.</a1>
+    <a2>The country colonized the land.</a2>
+  </item>
+
+  <item asks-for="effect" id="940" most-plausible-alternative="1">
+    <p>The glass toppled off the table.</p>
+    <a1>It shattered all over the floor.</a1>
+    <a2>It landed in a pile of laundry.</a2>
+  </item>
+
+  <item asks-for="cause" id="941" most-plausible-alternative="1">
+    <p>The table wobbled.</p>
+    <a1>The floor was uneven.</a1>
+    <a2>The floor was slippery.</a2>
+  </item>
+
+  <item asks-for="effect" id="942" most-plausible-alternative="1">
+    <p>The father caught his son lying.</p>
+    <a1>His son confessed the truth.</a1>
+    <a2>The father trusted his son.</a2>
+  </item>
+
+  <item asks-for="effect" id="943" most-plausible-alternative="2">
+    <p>The man's head throbbed with pain.</p>
+    <a1>He took cough syrup.</a1>
+    <a2>He took aspirin.</a2>
+  </item>
+
+  <item asks-for="cause" id="944" most-plausible-alternative="1">
+    <p>The train slowed down.</p>
+    <a1>It was approaching the station.</a1>
+    <a2>It was running behind schedule.</a2>
+  </item>
+
+  <item asks-for="cause" id="945" most-plausible-alternative="2">
+    <p>The man went through therapy.</p>
+    <a1>Mental illness ran in his family.</a1>
+    <a2>He was diagnosed with depression.</a2>
+  </item>
+
+  <item asks-for="cause" id="946" most-plausible-alternative="2">
+    <p>The woman clutched her throat.</p>
+    <a1>She swallowed her food.</a1>
+    <a2>She choked on her food.</a2>
+  </item>
+
+  <item asks-for="effect" id="947" most-plausible-alternative="1">
+    <p>The woman had a sore throat.</p>
+    <a1>Her voice sounded raspy.</a1>
+    <a2>She spoke with an accent.</a2>
+  </item>
+
+  <item asks-for="effect" id="948" most-plausible-alternative="1">
+    <p>The dog eyed the juicy steak on the table.</p>
+    <a1>It drooled.</a1>
+    <a2>It laid down.</a2>
+  </item>
+
+  <item asks-for="effect" id="949" most-plausible-alternative="2">
+    <p>The woman's business succeeded.</p>
+    <a1>She fired her employees.</a1>
+    <a2>She became wealthy.</a2>
+  </item>
+
+  <item asks-for="cause" id="950" most-plausible-alternative="1">
+    <p>The students exited the classroom.</p>
+    <a1>The bell rang.</a1>
+    <a2>The teacher assigned homework.</a2>
+  </item>
+
+  <item asks-for="effect" id="951" most-plausible-alternative="1">
+    <p>The woman claimed she saw a ghost.</p>
+    <a1>Her acquaintances expressed skepticism.</a1>
+    <a2>Her acquaintances related to her.</a2>
+  </item>
+
+  <item asks-for="cause" id="952" most-plausible-alternative="2">
+    <p>The man lost his hearing.</p>
+    <a1>He nearly drowned in the ocean.</a1>
+    <a2>He was nearly killed in an explosion.</a2>
+  </item>
+
+  <item asks-for="effect" id="953" most-plausible-alternative="2">
+    <p>The child let go of the balloon string.</p>
+    <a1>The balloon deflated.</a1>
+    <a2>The balloon rose into the air.</a2>
+  </item>
+
+  <item asks-for="cause" id="954" most-plausible-alternative="1">
+    <p>The man lost his ability to speak.</p>
+    <a1>He had a stroke.</a1>
+    <a2>He took a deep breath.</a2>
+  </item>
+
+  <item asks-for="cause" id="955" most-plausible-alternative="1">
+    <p>The woman tripped on the sidewalk.</p>
+    <a1>There was a crack in the cement.</a1>
+    <a2>She heard her name being called.</a2>
+  </item>
+
+  <item asks-for="effect" id="956" most-plausible-alternative="2">
+    <p>The man did a canon ball into the pool.</p>
+    <a1>The lifeguard jumped in after him.</a1>
+    <a2>The man soaked the lifeguard.</a2>
+  </item>
+
+  <item asks-for="effect" id="957" most-plausible-alternative="1">
+    <p>I took antibiotics.</p>
+    <a1>My infection cleared up.</a1>
+    <a2>My infection spread.</a2>
+  </item>
+
+  <item asks-for="effect" id="958" most-plausible-alternative="1">
+    <p>The traffic light turned yellow.</p>
+    <a1>The driver pushed the brake.</a1>
+    <a2>The driver honked his horn.</a2>
+  </item>
+
+  <item asks-for="cause" id="959" most-plausible-alternative="2">
+    <p>The plastic container melted.</p>
+    <a1>I soaked the container in warm water.</a1>
+    <a2>I placed the container on the hot stove.</a2>
+  </item>
+
+  <item asks-for="cause" id="960" most-plausible-alternative="1">
+    <p>The car got dented.</p>
+    <a1>The driver hit a telephone pole.</a1>
+    <a2>The driver ran a red light.</a2>
+  </item>
+
+  <item asks-for="effect" id="961" most-plausible-alternative="2">
+    <p>The boy studied all night.</p>
+    <a1>He skipped the exam.</a1>
+    <a2>He passed the exam.</a2>
+  </item>
+
+  <item asks-for="cause" id="962" most-plausible-alternative="1">
+    <p>The young boy clung to the ledge of the pool.</p>
+    <a1>He feared learning to swim.</a1>
+    <a2>The lifeguard was on duty.</a2>
+  </item>
+
+  <item asks-for="effect" id="963" most-plausible-alternative="1">
+    <p>I put my hand to my chest.</p>
+    <a1>I felt my heartbeat.</a1>
+    <a2>My heart rate sped up.</a2>
+  </item>
+
+  <item asks-for="effect" id="964" most-plausible-alternative="2">
+    <p>The building adjacent to my office was under construction.</p>
+    <a1>My office was crowded.</a1>
+    <a2>My office was noisy.</a2>
+  </item>
+
+  <item asks-for="effect" id="965" most-plausible-alternative="1">
+    <p>The family wanted to get to know their new neighbors.</p>
+    <a1>The family invited the neighbors over for dinner.</a1>
+    <a2>The family waved to the neighbors from their yard.</a2>
+  </item>
+
+  <item asks-for="cause" id="966" most-plausible-alternative="1">
+    <p>Water splashed up from the pool.</p>
+    <a1>The swimmer dove into the pool.</a1>
+    <a2>The swimmer floated in the pool.</a2>
+  </item>
+
+  <item asks-for="effect" id="967" most-plausible-alternative="1">
+    <p>I bit into a slice of watermelon.</p>
+    <a1>I accidentally swallowed a seed.</a1>
+    <a2>I accidentally chipped my tooth.</a2>
+  </item>
+
+  <item asks-for="cause" id="968" most-plausible-alternative="2">
+    <p>The boy tripped.</p>
+    <a1>His jacket was unzipped.</a1>
+    <a2>His shoelaces were untied.</a2>
+  </item>
+
+  <item asks-for="cause" id="969" most-plausible-alternative="1">
+    <p>The woman put earplugs in.</p>
+    <a1>She was distracted by noise.</a1>
+    <a2>She got her ears pierced.</a2>
+  </item>
+
+  <item asks-for="cause" id="970" most-plausible-alternative="1">
+    <p>I refilled my water bottle.</p>
+    <a1>I drank all the water in it.</a1>
+    <a2>I kept it in the fridge.</a2>
+  </item>
+
+  <item asks-for="cause" id="971" most-plausible-alternative="1">
+    <p>The television show was censored.</p>
+    <a1>It contained vulgar language.</a1>
+    <a2>It had a complicated plot.</a2>
+  </item>
+
+  <item asks-for="effect" id="972" most-plausible-alternative="1">
+    <p>The ship wrecked.</p>
+    <a1>The crew drowned.</a1>
+    <a2>The crew encountered pirates.</a2>
+  </item>
+
+  <item asks-for="effect" id="973" most-plausible-alternative="2">
+    <p>The boy felt stumped by the riddle.</p>
+    <a1>He solved the riddle.</a1>
+    <a2>He requested a hint.</a2>
+  </item>
+
+  <item asks-for="effect" id="974" most-plausible-alternative="2">
+    <p>The phone rang.</p>
+    <a1>The man hung up the phone.</a1>
+    <a2>The man picked up the phone.</a2>
+  </item>
+
+  <item asks-for="effect" id="975" most-plausible-alternative="2">
+    <p>The woman was staring at me.</p>
+    <a1>I hugged her.</a1>
+    <a2>I felt uncomfortable.</a2>
+  </item>
+
+  <item asks-for="cause" id="976" most-plausible-alternative="2">
+    <p>The group left the museum.</p>
+    <a1>They took pictures of the exhibits.</a1>
+    <a2>They viewed all the exhibits.</a2>
+  </item>
+
+  <item asks-for="effect" id="977" most-plausible-alternative="2">
+    <p>The man started an argument with me.</p>
+    <a1>My friend introduced me to the man.</a1>
+    <a2>My friend stood up for me.</a2>
+  </item>
+
+  <item asks-for="effect" id="978" most-plausible-alternative="1">
+    <p>The tire on my bike was flat.</p>
+    <a1>I pumped air into the tire.</a1>
+    <a2>I switched gears on the bike.</a2>
+  </item>
+
+  <item asks-for="effect" id="979" most-plausible-alternative="2">
+    <p>The girl looked pale.</p>
+    <a1>Her father read her a story.</a1>
+    <a2>Her father felt her forehead.</a2>
+  </item>
+
+  <item asks-for="effect" id="980" most-plausible-alternative="1">
+    <p>The pen ran out of ink.</p>
+    <a1>I used a pencil.</a1>
+    <a2>I signed my name.</a2>
+  </item>
+
+  <item asks-for="cause" id="981" most-plausible-alternative="1">
+    <p>The man was denied for a loan.</p>
+    <a1>He was in debt.</a1>
+    <a2>He started a business.</a2>
+  </item>
+
+  <item asks-for="cause" id="982" most-plausible-alternative="1">
+    <p>The girl stayed home from school.</p>
+    <a1>She had chicken pox.</a1>
+    <a2>She enjoyed learning math.</a2>
+  </item>
+
+  <item asks-for="effect" id="983" most-plausible-alternative="1">
+    <p>The trash bag was full.</p>
+    <a1>I took it to the dumpster.</a1>
+    <a2>I dumped it down the sink.</a2>
+  </item>
+
+  <item asks-for="cause" id="984" most-plausible-alternative="2">
+    <p>I vacuumed the carpet.</p>
+    <a1>My roommate spilled punch.</a1>
+    <a2>My dog shed hair.</a2>
+  </item>
+
+  <item asks-for="effect" id="985" most-plausible-alternative="2">
+    <p>The man lost his temper.</p>
+    <a1>He turned off his computer.</a1>
+    <a2>He threw a chair across the room.</a2>
+  </item>
+
+  <item asks-for="effect" id="986" most-plausible-alternative="1">
+    <p>The girl threw a twig into the campfire.</p>
+    <a1>The twig burned.</a1>
+    <a2>The fire went out.</a2>
+  </item>
+
+  <item asks-for="cause" id="987" most-plausible-alternative="1">
+    <p>The man got out of the shower.</p>
+    <a1>The hot water was gone.</a1>
+    <a2>He couldn't find a towel.</a2>
+  </item>
+
+  <item asks-for="effect" id="988" most-plausible-alternative="1">
+    <p>The parents wanted their children to go to college.</p>
+    <a1>They set aside a savings fund for tuition.</a1>
+    <a2>They encouraged their children to play outside.</a2>
+  </item>
+
+  <item asks-for="effect" id="989" most-plausible-alternative="1">
+    <p>The man unlaced his shoes.</p>
+    <a1>The shoes loosened.</a1>
+    <a2>The shoes became worn.</a2>
+  </item>
+
+  <item asks-for="effect" id="990" most-plausible-alternative="1">
+    <p>The man ate half of the entree.</p>
+    <a1>He refrigerated the leftovers.</a1>
+    <a2>He saved the recipe.</a2>
+  </item>
+
+  <item asks-for="effect" id="991" most-plausible-alternative="1">
+    <p>My ankle was swollen.</p>
+    <a1>I put ice on it.</a1>
+    <a2>I rubbed lotion on it.</a2>
+  </item>
+
+  <item asks-for="effect" id="992" most-plausible-alternative="2">
+    <p>My office door was open.</p>
+    <a1>I talked to my colleague at my desk.</a1>
+    <a2>I overheard the conversation in the hall.</a2>
+  </item>
+
+  <item asks-for="effect" id="993" most-plausible-alternative="2">
+    <p>I had to wait in line.</p>
+    <a1>I took a seat.</a1>
+    <a2>I skimmed a magazine.</a2>
+  </item>
+
+  <item asks-for="effect" id="994" most-plausible-alternative="1">
+    <p>The man swatted at the fly.</p>
+    <a1>The fly buzzed away.</a1>
+    <a2>The fly stayed still.</a2>
+  </item>
+
+  <item asks-for="cause" id="995" most-plausible-alternative="1">
+    <p>The man wrote a will.</p>
+    <a1>He was dying.</a1>
+    <a2>He was a widower.</a2>
+  </item>
+
+  <item asks-for="effect" id="996" most-plausible-alternative="2">
+    <p>The runner sensed his competitor gaining on him.</p>
+    <a1>He dropped out of the race.</a1>
+    <a2>He sped up his pace.</a2>
+  </item>
+
+  <item asks-for="effect" id="997" most-plausible-alternative="2">
+    <p>I thought carefully about the problem.</p>
+    <a1>I asked for advice.</a1>
+    <a2>I came up with a solution.</a2>
+  </item>
+
+  <item asks-for="effect" id="998" most-plausible-alternative="1">
+    <p>The traveler walked on the shaky suspension bridge.</p>
+    <a1>He felt terrified.</a1>
+    <a2>He felt ecstatic.</a2>
+  </item>
+
+  <item asks-for="effect" id="999" most-plausible-alternative="2">
+    <p>The man anticipated the team's victory.</p>
+    <a1>He met his friends to watch the game.</a1>
+    <a2>He made a bet with his friends.</a2>
+  </item>
+
+  <item asks-for="effect" id="1000" most-plausible-alternative="2">
+    <p>The boy couldn't fall asleep.</p>
+    <a1>He set his alarm clock.</a1>
+    <a2>He counted sheep.</a2>
+  </item>
+
+</copa-corpus>
